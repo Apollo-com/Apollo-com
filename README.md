@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julien form the firm Apollo COM
 - 👀 We are a French company based in Avignon
 - We create website on PrestaShop, WordPress and from Scratch
-- 📫 Contact me on contact@apollo-com.fr
+- 📫 Contact us on contact@apollo-com.fr
 - 🌐 Visit www.apollo-com.fr
 
 <!---
