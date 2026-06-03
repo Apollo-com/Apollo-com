@@ -1,11 +1,21 @@
-- 👋 Hi, I’m Julien form the firm Apollo COM
-- 👀 We are a French company based in Avignon
-- We create websites on PrestaShop, WordPress Shopify and from Scratch
-- We develop using PHP, CSS, JavaScript, React, and Node.js
-- 📫 Contact us on contact@apollo-com.fr
-- 🌐 Visit www.apollo-com.fr
+# Apollo COM
 
-<!---
-Apollo-com/Apollo-com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Agence web basée à Avignon.
+
+Nous accompagnons les entreprises dans la conception, le développement et l'évolution de leurs projets digitaux.
+
+## Expertise
+
+- Shopify & Shopify Plus
+- PrestaShop
+- WordPress
+- Développement sur mesure
+- Intégrations API
+- Maintenance & optimisation
+
+## Technologies
+
+PHP • JavaScript • React • Node.js • CSS • Liquid
+
+🌐 https://www.apollo-com.fr  
+📩 contact@apollo-com.fr
